@@ -226,6 +226,12 @@ If you learn patterns:
 
 [Most Common DSA Patterns
 ](https://leetcode.com/discuss/post/5886397/dsa-patterns-you-need-to-know-by-anubhav-x7og/)
+
+[Example of a DSA roadmap
+](https://neetcode.io/roadmap)
+
+You feel find many more DSA roadmaps and pattern lists. It doesnt matter much which one you choose, they are mostly copies of one another. Just pick one and stick to it.
+
 ---
 
 ## Final Note
@@ -236,4 +242,6 @@ This guide is not asking you to do more.
 It’s asking you to do **less, but better**.
 
 
-Curated and Maintained by CSI MIT-WPU
+Curated and Maintained by 
+Vedangi Thokal
+CSI MIT-WPU

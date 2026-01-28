@@ -242,6 +242,11 @@ This guide is not asking you to do more.
 It’s asking you to do **less, but better**.
 
 
-Curated and Maintained by 
-Vedangi Thokal
-CSI MIT-WPU
+<hr>
+
+<p align="center">
+  <sub>Curated and maintained by</sub><br>
+  <strong>Vedangi Thokal</strong><br>
+  <em>CSI MIT-WPU</em>
+</p>
+
